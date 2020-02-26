@@ -24,7 +24,7 @@ if ( ! defined( 'ABSPATH' ) ) {
 	 * @since 1.0
 	 */
 	class EIG_Masonry {
-		private $addon_slug = 'masonry';
+		private $addon_slug = 'easy-image-gallery-masonry-master';
 
 		public function __construct() {
 			//add_action( 'plugins_loaded', array( $this, 'load_textdomain' ) );
